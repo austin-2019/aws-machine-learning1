@@ -1,1 +1,1 @@
-# machine-learning-references
+# Notes and data from AWS tutorial on machine learning
